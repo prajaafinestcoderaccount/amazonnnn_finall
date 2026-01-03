@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-03T19:22:31 IST" name="Default suite" finished-at="2026-01-03T19:26:51 IST" duration-ms="260098">
+    <groups>
+    </groups>
+    <test started-at="2026-01-03T19:22:31 IST" name="Default test" finished-at="2026-01-03T19:26:51 IST" duration-ms="260098">
+      <class name="com.travolgo.test.Addtocart_Testcase">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:com.travolgo.test.Addtocart_Testcase@16ecee1]" started-at="2026-01-03T19:22:31 IST" name="setupReport" finished-at="2026-01-03T19:22:31 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.travolgo.test.Addtocart_Testcase@16ecee1]" started-at="2026-01-03T19:22:31 IST" name="setup" finished-at="2026-01-03T19:22:42 IST" duration-ms="11500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Addingtocart()[pri:0, instance:com.travolgo.test.Addtocart_Testcase@16ecee1]" started-at="2026-01-03T19:22:42 IST" name="Addingtocart" finished-at="2026-01-03T19:26:51 IST" duration-ms="248581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addingtocart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.travolgo.test.Addtocart_Testcase@16ecee1]" started-at="2026-01-03T19:26:56 IST" name="tearDown" finished-at="2026-01-03T19:26:56 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.travolgo.test.Addtocart_Testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

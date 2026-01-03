@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TravolgoSuite]">
+  <test thread-count="5" name="TravolgoTestcase1(failed)">
+    <classes>
+      <class name="com.travolgo.test.LoginPageTest">
+        <methods>
+          <include name="verifyLogin"/>
+          <include name="loadConfig"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.travolgo.test.LoginPageTest -->
+    </classes>
+  </test> <!-- TravolgoTestcase1(failed) -->
+</suite> <!-- Failed suite [TravolgoSuite] -->

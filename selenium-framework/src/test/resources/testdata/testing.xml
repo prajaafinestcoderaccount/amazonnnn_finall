@@ -1,0 +1,12 @@
+<!-- running via testing.xml file -->
+<suite name="TravolgoSuite">
+	<test name = "TravolgoTestcase1">
+		<classes>
+			<class name ="com.travolgo.test.LoginPageTest" > </class>
+		</classes>
+	</test>
+		
+</suite>
+
+<!--we can also perform groups , selecting some mthods alone to run in a class operations using includes and  
+excludes keywords -->
